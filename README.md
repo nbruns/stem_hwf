@@ -4,11 +4,11 @@ Workflow to compute **continent-scale avian abundance estimates** using **eBird 
 
 ---
 
-Computed results were used in **2016 State of the Birds Report:**  
+Specific implementation used to compute results for **2016 State of the Birds Report:**  
 **[2016 State of the Birds](https://www.stateofthebirds.org/2016/)**  
 
-using **300-node Hadoop cluster** on **Microsoft Azure**.  
-For detailed deployment and operational instructions, refer to:  
+Specific deployment was **300-node Hadoop cluster** on **Microsoft Azure**.  
+For detailed deployment and operational instructions, see:  
 
  **[Azure Deployment & Operation Document](docs/STEM_HWF_DnO_10.26.15.docx)**  
 
